@@ -1,0 +1,54 @@
+body {
+	background-image: url("../images/crystal-meanings.jpg");
+	height: 100vh;
+	width: 100vw;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.top{
+	background-color: rgb(67, 181, 226);
+	color: white;
+}
+
+.target-number {
+	font-size: 30px;
+	background-color: rgb(148, 230, 168);
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 2px;
+}
+
+.win-lose-counter {
+	background-color: rgb(148, 185, 194);
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 2px;
+	height: 3%;
+	width: 33%;
+}
+
+.crystal-images {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.total-score {
+	color: rgb(29, 23, 23);
+	background-color: #4aaaa5;
+
+}
+
+.score-number {
+	color: white;
+	background-color: #4aaaa5;
+	font-size: 30px;
+}
+p{
+	font-size: 20px;
+	color: rgb(17, 18, 19);
+}
+.col-md-4{
+	width:20%;
+}
